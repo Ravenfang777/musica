@@ -1,0 +1,189 @@
+title: RECOM Music
+originalAuthor: RAXZER
+description: Replaces music with Re:Com equivalents
+dependencies: 
+assets:
+- name: remastered/amusic/music103.bgm/music103.win32.scd # Hercules FIELD 1
+  method: copy
+  source:
+  - name: remastered/amusic/music103.bgm/music103.win32.scd
+- name: remastered/amusic/music103.dat/music103.win32.scd # Hercules FIELD 2
+  method: copy
+  source:
+  - name: remastered/amusic/music103.dat/music103.win32.scd
+- name: remastered/amusic/music104.dat/music104.win32.scd # Town FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music104.dat/music104.win32.scd
+- name: remastered/amusic/music105.dat/music105.win32.scd # Destiny Islands FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music105.dat/music105.win32.scd
+- name: remastered/amusic/music110.bgm/music110.win32.scd # Title 1
+  method: copy
+  source:
+  - name: remastered/amusic/music110.bgm/music110.win32.scd
+- name: remastered/amusic/music110.dat/music110.win32.scd # Title 2
+  method: copy
+  source:
+  - name: remastered/amusic/music110.dat/music110.win32.scd
+- name: remastered/amusic/music111.bgm/music111.win32.scd # Guard Armor -> Boss1 1
+  method: copy
+  source:
+  - name: remastered/amusic/music111.bgm/music111.win32.scd
+- name: remastered/amusic/music111.dat/music111.win32.scd # Guard Armor -> Boss1 2
+  method: copy
+  source:
+  - name: remastered/amusic/music111.dat/music111.win32.scd
+- name: remastered/amusic/music112.dat/music112.win32.scd # Traverse Town BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music112.dat/music112.win32.scd
+- name: remastered/amusic/music114.bgm/music114.win32.scd # Guard Armor BuildUp
+  method: copy
+  source:
+  - name: remastered/amusic/music114.bgm/music114.win32.scd
+- name: remastered/amusic/music116.dat/music116.win32.scd # Wonderland FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music116.dat/music116.win32.scd
+- name: remastered/amusic/music117.dat/music117.win32.scd # Monstro FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music117.dat/music117.win32.scd
+- name: remastered/amusic/music118.bgm/music118.win32.scd # Alice BATTLE 1
+  method: copy
+  source:
+  - name: remastered/amusic/music118.bgm/music118.win32.scd
+- name: remastered/amusic/music118.dat/music118.win32.scd # Alice BATTLE 2
+  method: copy
+  source:
+  - name: remastered/amusic/music118.dat/music118.win32.scd
+- name: remastered/amusic/music120.bgm/music120.win32.scd # Olympus BATTLE 1
+  method: copy
+  source:
+  - name: remastered/amusic/music120.bgm/music120.win32.scd
+- name: remastered/amusic/music120.dat/music120.win32.scd # Olympus BATTLE 2
+  method: copy
+  source:
+  - name: remastered/amusic/music120.dat/music120.win32.scd
+- name: remastered/amusic/music121.dat/music121.win32.scd # Monstro BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music121.dat/music121.win32.scd
+- name: remastered/amusic/music125.dat/music125.win32.scd # World Map
+  method: copy
+  source:
+  - name: remastered/amusic/music125.dat/music125.win32.scd
+- name: remastered/amusic/music127.dat/music127.win32.scd # Agrabah FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music127.dat/music127.win32.scd
+- name: remastered/amusic/music128.dat/music128.win32.scd # Agrabah BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music128.dat/music128.win32.scd
+- name: remastered/amusic/music129.dat/music129.win32.scd # Peter Pan FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music129.dat/music129.win32.scd
+- name: remastered/amusic/music131.dat/music131.win32.scd # Night of Fate
+  method: copy
+  source:
+  - name: remastered/amusic/music131.dat/music131.win32.scd
+- name: remastered/amusic/music140.dat/music140.win32.scd # Atlantica FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music140.dat/music140.win32.scd
+- name: remastered/amusic/music141.dat/music141.win32.scd # Pooh
+  method: copy
+  source:
+  - name: remastered/amusic/music141.dat/music141.win32.scd
+- name: remastered/amusic/music144.dat/music144.win32.scd # Halloween FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music144.dat/music144.win32.scd
+- name: remastered/amusic/music145.bgm/music145.win32.scd # Heartless/Disney Boss (Darkside) -> NiseRiku
+  method: copy
+  source:
+  - name: remastered/amusic/music145.bgm/music145.win32.scd
+- name: remastered/amusic/music146.dat/music146.win32.scd # Peter Pan BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music146.dat/music146.win32.scd
+- name: remastered/amusic/music149.dat/music149.win32.scd # HALLOWEEN BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music149.dat/music149.win32.scd
+- name: remastered/amusic/music150.bgm/music150.win32.scd # Disney Boss (Clayton) -> Boss2_World
+  method: copy
+  source:
+  - name: remastered/amusic/music150.bgm/music150.win32.scd
+- name: remastered/amusic/music151.bgm/music151.win32.scd # Maleficent Dragon -> LastBoss2
+  method: copy
+  source:
+  - name: remastered/amusic/music151.bgm/music151.win32.scd
+- name: remastered/amusic/music152.dat/music152.win32.scd # Hollow Bastion FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music152.dat/music152.win32.scd
+- name: remastered/amusic/music153.dat/music153.win32.scd # Hollow Bastion BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music153.dat/music153.win32.scd
+- name: remastered/amusic/music154.dat/music154.win32.scd # Last World FIELD
+  method: copy
+  source:
+  - name: remastered/amusic/music154.dat/music154.win32.scd
+- name: remastered/amusic/music155.dat/music155.win32.scd # Last World BATTLE
+  method: copy
+  source:
+  - name: remastered/amusic/music155.dat/music155.win32.scd
+- name: remastered/amusic/music156.bgm/music156.win32.scd # Last Boss -> LastBoss_3
+  method: copy
+  source:
+  - name: remastered/amusic/music156.bgm/music156.win32.scd
+- name: remastered/amusic/music158.bgm/music158.win32.scd # Pooh Minigame
+  method: copy
+  source:
+  - name: remastered/amusic/music158.bgm/music158.win32.scd
+- name: remastered/amusic/music163.bgm/music163.win32.scd # Maleficent Theme -> Event_Unrest
+  method: copy
+  source:
+  - name: remastered/amusic/music163.bgm/music163.win32.scd
+- name: remastered/amusic/music168.bgm/music168.win32.scd # Unnerving Theme -> Event_XIII
+  method: copy
+  source:
+  - name: remastered/amusic/music168.bgm/music168.win32.scd
+- name: remastered/amusic/music183.bgm/music183.win32.scd # Silly Music -> Event_Odayaka
+  method: copy
+  source:
+  - name: remastered/amusic/music183.bgm/music183.win32.scd
+- name: remastered/amusic/music160.bgm/music160.win32.scd # Kairi Theme -> Event_Namine
+  method: copy
+  source:
+  - name: remastered/amusic/music160.bgm/music160.win32.scd
+- name: remastered/amusic/music180.bgm/music180.win32.scd # Kairi's Flashback Scene (Grandma Story) -> Event_Yuttari
+  method: copy
+  source:
+  - name: remastered/amusic/music180.bgm/music180.win32.scd
+- name: remastered/amusic/music185.bgm/music185.win32.scd # Riku-Ansem
+  method: copy
+  source:
+  - name: remastered/amusic/music185.bgm/music185.win32.scd
+- name: remastered/amusic/music188.bgm/music188.win32.scd # Mickey's Letter -> Event2
+  method: copy
+  source:
+  - name: remastered/amusic/music188.bgm/music188.win32.scd
+- name: remastered/amusic/music194.bgm/music194.win32.scd # Last Boss (Alternate) -> LastBoss3
+  method: copy
+  source:
+  - name: remastered/amusic/music194.bgm/music194.win32.scd
+- name: remastered/amusic/music097.bgm/music097.win32.scd # Xemnas -> LastBoss1
+  method: copy
+  source:
+  - name: remastered/amusic/music097.bgm/music097.win32.scd
+- name: remastered/amusic/music099.bgm/music099.win32.scd # Xemnas -> LastBoss1 2
+  method: copy
+  source:
+  - name: remastered/amusic/music099.bgm/music099.win32.scd
